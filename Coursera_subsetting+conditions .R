@@ -30,6 +30,12 @@ max(my_data$Ozone [good & my_data$Month == 5])
 # check again git version 
 # $git version
 
+# how to push files ????????????????????????????????
+#git init
+#git add -A
+#git commit -m 'Added my project'
+#git remote add origin git@github.com:scotch-io/my-new-project.git
+#git push -u -f origin master
 
 
 
